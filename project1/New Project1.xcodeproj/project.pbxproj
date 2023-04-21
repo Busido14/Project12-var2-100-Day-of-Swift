@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		122445AD29F27FAB00681874 /* Picture.swift in Sources */ = {isa = PBXBuildFile; fileRef = 122445AC29F27FAB00681874 /* Picture.swift */; };
 		128060F62941F885008ECFB9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 128060F52941F885008ECFB9 /* AppDelegate.swift */; };
 		128060F82941F885008ECFB9 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 128060F72941F885008ECFB9 /* SceneDelegate.swift */; };
 		128060FA2941F885008ECFB9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 128060F92941F885008ECFB9 /* ViewController.swift */; };
@@ -27,6 +28,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		122445AC29F27FAB00681874 /* Picture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Picture.swift; sourceTree = "<group>"; };
 		128060F22941F885008ECFB9 /* New Project1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "New Project1.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		128060F52941F885008ECFB9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		128060F72941F885008ECFB9 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -81,6 +83,7 @@
 				128060F52941F885008ECFB9 /* AppDelegate.swift */,
 				128060F72941F885008ECFB9 /* SceneDelegate.swift */,
 				128060F92941F885008ECFB9 /* ViewController.swift */,
+				122445AC29F27FAB00681874 /* Picture.swift */,
 				1280611E2941FBE6008ECFB9 /* DetailViewController.swift */,
 				128060FB2941F885008ECFB9 /* Main.storyboard */,
 				128060FE2941F885008ECFB9 /* Assets.xcassets */,
@@ -190,6 +193,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				128060FA2941F885008ECFB9 /* ViewController.swift in Sources */,
+				122445AD29F27FAB00681874 /* Picture.swift in Sources */,
 				128060F62941F885008ECFB9 /* AppDelegate.swift in Sources */,
 				128060F82941F885008ECFB9 /* SceneDelegate.swift in Sources */,
 				1280611F2941FBE6008ECFB9 /* DetailViewController.swift in Sources */,
